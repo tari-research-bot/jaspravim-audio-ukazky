@@ -1,65 +1,65 @@
-# Hlasové ukážky — 30 hlasov Gemini TTS
+# Hlasové ukážky — 30 hlasov Gemini TTS (čeština + slovenčina)
 
 Ukážky hlasu pre inzerát **„Načítanie audioknihy aj akéhokoľvek textu hlasom — MP3"**
 na [jaspravim.sk](https://www.jaspravim.sk/tari/nacitie-audioknihy-aj-akehoklovek-textu-hlasom-mp3-267696).
 
 Všetky ukážky čítajú **ten istý text** — úvod drámy *Bílá nemoc* od Karla Čapka (1937).
-Je to voľné dielo (PD old 70), takže sa dá voľne zverejniť a ďalej používať.
+Voľné dielo (PD old 70), takže sa dá voľne zverejniť a ďalej používať.
 
-## 🇸🇰 Ukážka pre inzerát (slovenčina)
+**Každý hlas má dve ukážky — jednu česky a jednu slovensky.** Sú to tie isté
+hlasy (tie isté mená, štýly a pohlavia), iba iný jazyk. Zvuk je **generovaný AI
+(Gemini TTS)**, nie hlas herca.
 
-Toto je ukážka, ktorá je priložená k inzerátu. Hlas **Kore**, model Gemini TTS,
-slovenčina, 100 s.
+> ℹ️ Slovenských ukážok je momentálne 7 z 30 — kvóta Gemini TTS free-tier
+> (per model, per účet, per deň) sa v dnešku vyčerpala. Doplnia sa pri
+> najbližšom dennom reseti; česká verzia je kompletná.
+
+## 🇸🇰 Slovenská ukážka — tá je v inzeráte
+
+Hlas **Kore** (Firm, žena), slovenčina, 2:30.
 
 <audio controls src="https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/ukazka-sk.mp3"></audio>
 
 **[Stiahnuť MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/ukazka-sk.mp3)** · text: [`text/ukazka-sk.txt`](text/ukazka-sk.txt)
 
-## 🗣️ Porovnanie 30 hlasov (čeština)
+## 🗣️ Porovnanie 30 hlasov (16 mužských / 14 ženských)
 
-Všetky hlasy čítajú 1. obraz z drámy *Bílá nemoc* (1 879 znakov, 2 segmenty),
-aby sa dali priamo porovnať. Každý riadok má **priamy odkaz na MP3** — ten sa
-dá vložiť kamkoľvek (napr. do zoznamu hlasov v ponuke).
+| # | Hlas | Štýl | Pohlavie | Dĺžka (čeština) | Čeština | Dĺžka (slovenčina) | Slovenčina |
+|---|---|---|---|---|---|---|---|
+| 1 | **Zephyr** | Bright | žena | 2:34 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Zephyr.mp3) | 2:45 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Zephyr.mp3) |
+| 2 | **Puck** | Upbeat | muž | 2:21 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Puck.mp3) | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Puck.mp3) |
+| 3 | **Charon** | Informative | muž | 2:20 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Charon.mp3) | 2:23 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Charon.mp3) |
+| 4 | **Kore** | Firm | žena | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Kore.mp3) | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Kore.mp3) |
+| 5 | **Fenrir** | Excitable | muž | 2:24 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Fenrir.mp3) | 2:16 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Fenrir.mp3) |
+| 6 | **Leda** | Youthful | žena | 2:33 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Leda.mp3) | – | *(doplní sa)* |
+| 7 | **Orus** | Firm | muž | 2:09 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Orus.mp3) | – | *(doplní sa)* |
+| 8 | **Aoede** | Breezy | žena | 2:25 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Aoede.mp3) | – | *(doplní sa)* |
+| 9 | **Callirrhoe** | Easy-going | žena | 2:32 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Callirrhoe.mp3) | – | *(doplní sa)* |
+| 10 | **Autonoe** | Bright | žena | 2:23 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Autonoe.mp3) | 2:50 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Autonoe.mp3) |
+| 11 | **Enceladus** | Breathy | muž | 2:33 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Enceladus.mp3) | 2:29 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Enceladus.mp3) |
+| 12 | **Iapetus** | Clear | muž | 2:10 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Iapetus.mp3) | – | *(doplní sa)* |
+| 13 | **Umbriel** | Easy-going | muž | 2:34 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Umbriel.mp3) | – | *(doplní sa)* |
+| 14 | **Algenib** | Gravelly | muž | 2:35 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Algenib.mp3) | – | *(doplní sa)* |
+| 15 | **Despina** | Smooth | žena | 2:40 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Despina.mp3) | – | *(doplní sa)* |
+| 16 | **Erinome** | Clear | žena | 2:39 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Erinome.mp3) | – | *(doplní sa)* |
+| 17 | **Rasalgethi** | Informative | muž | 2:33 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Rasalgethi.mp3) | – | *(doplní sa)* |
+| 18 | **Laomedeia** | Upbeat | žena | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Laomedeia.mp3) | – | *(doplní sa)* |
+| 19 | **Achernar** | Soft | žena | 2:24 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Achernar.mp3) | – | *(doplní sa)* |
+| 20 | **Alnilam** | Firm | muž | 2:37 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Alnilam.mp3) | – | *(doplní sa)* |
+| 21 | **Schedar** | Even | muž | 2:26 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Schedar.mp3) | – | *(doplní sa)* |
+| 22 | **Gacrux** | Mature | žena | 2:28 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Gacrux.mp3) | – | *(doplní sa)* |
+| 23 | **Pulcherrima** | Forward | žena | 2:24 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Pulcherrima.mp3) | – | *(doplní sa)* |
+| 24 | **Achird** | Friendly | muž | 2:36 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Achird.mp3) | – | *(doplní sa)* |
+| 25 | **Zubenelgenubi** | Casual | muž | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Zubenelgenubi.mp3) | – | *(doplní sa)* |
+| 26 | **Vindemiatrix** | Gentle | žena | 2:30 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Vindemiatrix.mp3) | – | *(doplní sa)* |
+| 27 | **Sadachbia** | Lively | muž | 2:26 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sadachbia.mp3) | – | *(doplní sa)* |
+| 28 | **Sadaltager** | Knowledgeable | muž | 2:22 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sadaltager.mp3) | – | *(doplní sa)* |
+| 29 | **Sulafat** | Warm | žena | 3:07 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sulafat.mp3) | – | *(doplní sa)* |
+| 30 | **Algieba** | Smooth | muž | 2:11 | [mp3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Algieba.mp3) | – | *(doplní sa)* |
 
-| # | Hlas | Štýl | Trvanie | Stav | Súbor |
-|---|---|---|---|---|---|
-| 1 | **Achernar** | Soft | 37:30 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Achernar.mp3) |
-| 2 | **Achird** | Friendly | 40:46 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Achird.mp3) |
-| 3 | **Algenib** | Gravelly | 40:34 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Algenib.mp3) |
-| 4 | **Algieba** | Smooth | 34:13 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Algieba.mp3) |
-| 5 | **Alnilam** | Firm | 40:55 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Alnilam.mp3) |
-| 6 | **Aoede** | Breezy | 37:46 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Aoede.mp3) |
-| 7 | **Autonoe** | Bright | 37:20 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Autonoe.mp3) |
-| 8 | **Callirrhoe** | Easy-going | 39:45 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Callirrhoe.mp3) |
-| 9 | **Charon** | Informative | 36:31 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Charon.mp3) |
-| 10 | **Despina** | Smooth | 41:52 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Despina.mp3) |
-| 11 | **Enceladus** | Breathy | 40:03 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Enceladus.mp3) |
-| 12 | **Erinome** | Clear | 41:29 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Erinome.mp3) |
-| 13 | **Fenrir** | Excitable | 37:42 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Fenrir.mp3) |
-| 14 | **Gacrux** | Mature | 38:40 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Gacrux.mp3) |
-| 15 | **Iapetus** | Clear | 33:52 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Iapetus.mp3) |
-| 16 | **Kore** | Firm | 39:15 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Kore.mp3) |
-| 17 | **Laomedeia** | Upbeat | 39:09 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Laomedeia.mp3) |
-| 18 | **Leda** | Youthful | 40:01 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Leda.mp3) |
-| 19 | **Orus** | Firm | 33:38 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Orus.mp3) |
-| 20 | **Puck** | Upbeat | 36:57 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Puck.mp3) |
-| 21 | **Pulcherrima** | Forward | 37:35 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Pulcherrima.mp3) |
-| 22 | **Rasalgethi** | Informative | 39:56 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Rasalgethi.mp3) |
-| 23 | **Sadachbia** | Lively | 38:02 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sadachbia.mp3) |
-| 24 | **Sadaltager** | Knowledgeable | 37:03 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sadaltager.mp3) |
-| 25 | **Schedar** | Even | 38:10 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Schedar.mp3) |
-| 26 | **Sulafat** | Warm | 48:44 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Sulafat.mp3) |
-| 27 | **Umbriel** | Easy-going | 40:10 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Umbriel.mp3) |
-| 28 | **Vindemiatrix** | Gentle | 39:15 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Vindemiatrix.mp3) |
-| 29 | **Zephyr** | Bright | 40:21 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Zephyr.mp3) |
-| 30 | **Zubenelgenubi** | Casual | 39:11 | ok | [MP3](https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Zubenelgenubi.mp3) |
-
-### Odkazy v dvoch formátoch
-
-- **Priamy MP3** (funguje v prehrávači aj prehliadači):
-  `https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Kore.mp3`
-- **Cez GitHub blob** (stránka s náhľadom a metadátami):
-  `https://github.com/tari-research-bot/jaspravim-audio-ukazky/blob/main/audio/hlasy/Kore.mp3`
+Priame odkazy na MP3 fungujú bez prihlásenia a bez tokenu. Prezerať ich môžeš
+aj cez GitHub blob stránku:
+`https://github.com/tari-research-bot/jaspravim-audio-ukazky/blob/main/audio/hlasy-sk/Kore.mp3`
 
 ## 🎚️ Technické parametre
 
@@ -67,45 +67,47 @@ dá vložiť kamkoľvek (napr. do zoznamu hlasov v ponuke).
 |---|---|
 | Formát | MP3, 128 kbps, 44 100 Hz, mono |
 | Normalizácia | −16 LUFS (peak −1,5 dB) — `ffmpeg loudnorm=I=-16:TP=-1.5:LRA=11` |
-| Trvanie ukážky | 2:09 – 3:07 (najdlhší Sulafat, najkratší Orus) |
-| Model TTS | Google Gemini TTS (`gemini-2.5-flash-preview-tts`), jazyk `cs` |
-| Jazyková ukážka | `ukazka-sk.mp3` — slovenčina, 100 s, hlas Kore |
+| Trvanie ukážky (čeština) | 2:09 – 3:07 |
+| Trvanie ukážky (slovenčina) | 2:16 – 2:50 |
+| Model TTS | Google Gemini TTS (`gemini-2.5-flash-preview-tts` a ďalšie) |
+| Jazyky | `cs` (čeština) · `sk-SK` (slovenčina) |
+| Text | 1. obraz drámy *Bílá nemoc* — 13 prejavov, 1 879 znakov (čeština) / 1 910 (slovenčina) |
 
 ## ⚖️ Autorské práva a pôvod
 
 - **Text** (prečítaný text): *Bílá nemoc* — **Karel Čapek (1883–1938)**, 1937.
   Autor zomrel 9. 1. 1938. Zdroj: [cs.wikisource.org/wiki/Bílá_nemoc](https://cs.wikisource.org/wiki/Bílá_nemoc),
-  licenca **PD old 70** — voľné dielo, šírenie a modifikácia povolené.
+  licencia **PD old 70** — voľné dielo, šírenie a modifikácia povolené.
+  Slovenská verzia je vlastný preklad tohto textu.
 - **Audio**: **vygenerované umelou inteligenciou** (Gemini TTS). Nejde o zvuk
-  ľudského herca ani o nahrávku hlasu — je to syntéza textu. Preto v inzeráte
-  aj tu píšeme, že audio je TTS.
+  ľudského herca ani o nahrávku hlasu — je to syntéza textu. Preto aj v inzeráte
+  píšeme, že zvuk je TTS.
 - **Licencia audio**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.sk)
-  (public domain odovzdanie) — nič tu nie je chránené, smie sa používať voľne.
-- Všetky súbory v tomto repo sú v **slovenčine a češtine**; žiadny obsah nie je
-  pod ochranou cudzieho práva k nahrávke.
+  — nič tu nie je chránené, smie sa používať voľne.
 
 ## 🔗 Ako to použiť vo vlastnom projekte
 
 ```bash
-# stiahnuť jeden hlas
-curl -LO https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/Kore.mp3
+# stiahnuť jeden hlas (slovenčina)
+curl -LO https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/Kore.mp3
 
-# stiahnuť všetky hlasy naraz (git)
+# stiahnuť všetky hlasy naraz
 git clone https://github.com/tari-research-bot/jaspravim-audio-ukazky.git
 ```
 
 Pri vkladaní do inzerátu alebo na web použite priamy odkaz na MP3
-(`https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy/<Hlas>.mp3`) — funguje bez prihlásenia a bez tokenu.
+(`https://raw.githubusercontent.com/tari-research-bot/jaspravim-audio-ukazky/main/audio/hlasy-sk/<Hlas>.mp3`).
 
 ## 📁 Štruktúra
 
 ```
 audio/
-  ukazka-sk.mp3          slovenská ukážka pre inzerát
-  hlasy/<Hlas>.mp3       30 hlasov, rovnaký text
+  ukazka-sk.mp3          slovenská ukážka pre inzerát (hlas Kore)
+  hlasy/<Hlas>.mp3       30 hlasov - čeština
+  hlasy-sk/<Hlas>.mp3    7 z 30 hlasov - slovenčina (zvyšok sa dopĺňa)
 text/
-  ukazka-sk.txt          text slovenskej ukážky
-  ukazka-bila-nemoc-cs.txt  pôvodný český text (1. obraz drámy)
+  ukazka-sk.txt              slovenský text (vlastný preklad)
+  ukazka-bila-nemoc-cs.txt   český originál (1. obraz drámy)
 ```
 
 Generované: 21. 10. 2026 · Gemini TTS · ffmpeg

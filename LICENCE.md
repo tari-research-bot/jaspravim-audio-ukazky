@@ -8,8 +8,8 @@
 - Zdroj: <https://cs.wikisource.org/wiki/Bílá_nemoc>
 - Licencia textu: **PD old 70** (Wikisource). Autor zomrel pred viac ako
   70 rokmi, takže text je voľné dielo.
-- Použitý úsek: 1. obraz, „Tři malomocní ve fáčích" (1 879 znakov),
-  slovenský preklad v `text/ukazka-sk.txt` je vlastný preklad tohto textu.
+- Použitý úsek: 1. obraz, „Tři malomocní ve fáčích" — 13 prejavov,
+  1 879 znakov. Slovenská verzia je vlastný preklad tohto textu.
 
 ## Audio
 
