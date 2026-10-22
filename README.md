@@ -10,9 +10,11 @@ Voľné dielo (PD old 70), takže sa dá voľne zverejniť a ďalej používať.
 hlasy (tie isté mená, štýly a pohlavia), iba iný jazyk. Zvuk je **generovaný AI
 (Gemini TTS)**, nie hlas herca.
 
-> ℹ️ Slovenských ukážok je momentálne 30 z 30 — kvóta Gemini TTS free-tier
-> (per model, per účet, per deň) sa v dnešku vyčerpala. Doplnia sa pri
-> najbližšom dennom reseti; česká verzia je kompletná.
+> ✅ **Slovenských ukážok je 30 z 30 — sada je kompletná.**
+> Kvóta Gemini TTS free-tier je 10 requestov na kombináciu
+> (účet/projekt + model) za deň a resetuje sa o ~09:00 CEST;
+> slovenská sada sa preto dopĺňala postupne v denných dávkach.
+> Česká aj slovenská verzia sú hotové.
 
 ## 🇸🇰 Slovenská ukážka — tá je v inzeráte
 
@@ -104,7 +106,7 @@ Pri vkladaní do inzerátu alebo na web použite priamy odkaz na MP3
 audio/
   ukazka-sk.mp3          slovenská ukážka pre inzerát (hlas Kore)
   hlasy/<Hlas>.mp3       30 hlasov - čeština
-  hlasy-sk/<Hlas>.mp3    30 z 30 hlasov - slovenčina (zvyšok sa dopĺňa)
+  hlasy-sk/<Hlas>.mp3    30 z 30 hlasov - slovenčina
 text/
   ukazka-sk.txt              slovenský text (vlastný preklad)
   ukazka-bila-nemoc-cs.txt   český originál (1. obraz drámy)
