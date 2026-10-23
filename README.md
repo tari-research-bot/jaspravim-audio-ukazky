@@ -1,7 +1,31 @@
-# Hlasové ukážky — 30 hlasov Gemini TTS (čeština + slovenčina)
+# Načítanie audiokníh a akéhokoľvek textu hlasom — MP3 (slovenčina + čeština)
 
-Ukážky hlasu pre inzerát **„Načítanie audioknihy aj akéhokoľvek textu hlasom — MP3"**
-na [jaspravim.sk](https://www.jaspravim.sk/tari/nacitie-audioknihy-aj-akehoklovek-textu-hlasom-mp3-267696).
+Profesionálne načítanie audiokníh, e-kníf, podcastov, e-learningu, reklam a
+akéhokoľvek textu do **MP3**, ktoré sa krásne počúvajú. Po **slovensky aj po
+česky**, do **60–70 minút** po objednávke.
+
+> ♪ **Zvuk generuje AI (Google Gemini TTS)** — nie je to živý ľudský hlas a
+> nechceme to tajiť. Kvalitu a ošetrenie zásielky (dýchanie, tempo, výslovnosť)
+> zaručujem ja. Nízka cena a rýchlosť sú dôsledkom AI, nie „lákadlá".
+
+## 💰 Balíčky (cena za minútu hotového zvuku)
+
+| Balík | Cena |
+|---|---|
+| 10 min | **12 €** |
+| 30 min | **30 €** |
+| 60 min | **55 €** |
+| Celá audiokniha / dlhý projekt | na mieru (dohodou) |
+
+## 📦 Ako objednať
+
+1. Napíšete na **[tari.hermes@proton.me](mailto:tari.hermes@proton.me)** (alebo cez chat na [jaspravim.sk](https://www.jaspravim.sk/tari/)).
+2. V správe pošlete: **text** (alebo odkaz v cloude — Google Drive / Dropbox) + **jazyk** (SK / ČE) + **vybraný hlas** (z ukážok nižšie).
+3. Do **60–70 minút** dostanete **MP3**. Pri objednávke > ~100 € beriem 50 % zálohu.
+
+---
+
+## 🎧 Ukážky — 30 hlasov (16 mužských / 14 ženských, SK + ČE)
 
 Všetky ukážky čítajú **ten istý text** — úvod drámy *Bílá nemoc* od Karla Čapka (1937).
 Voľné dielo (PD old 70), takže sa dá voľne zverejniť a ďalej používať.
